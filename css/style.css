@@ -1,0 +1,15 @@
+#won, #lost {
+    display: none;
+}
+
+#word, #letters {
+    padding: 20px 0px;
+}
+
+#man {
+    margin: 20px auto;
+    width: 600px;
+    height: 600px;
+    border-radius: 5px;
+    border-width: 1px;
+}
